@@ -73,17 +73,99 @@
 		</section>
 
 		<!-- Photo and Text Section- -->
-		<section>
-			<div class="container"
+		<section class="bg-info">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<img class="img-responsive img-thumbnail" src="https://www.fillmurray.com/g/500/300" alt="bill murray">
+					</div>
+					<div class="col-md-9">
+						<p>Selvage next level migas, readymade flannel lyft live-edge shoreditch aesthetic. Bicycle rights PBR&B occupy etsy vape ennui franzen tousled mixtape, taxidermy ramps irony. Try-hard leggings letterpress raw denim pop-up freegan next level, jianbing godard succulents fixie unicorn tattooed semiotics. Ennui direct trade skateboard ethical venmo, hoodie cray yuccie gluten-free microdosing gochujang paleo bitters. Jean shorts pabst small batch health goth banjo, fashion axe vexillologist offal stumptown. Irony street art 3 wolf moon etsy godard photo booth pitchfork umami. Vape vice pinterest, distillery yr tilde butcher shabby chic pitchfork.</p>
+					</div>
+				</div>
+			</div>
 		</section>
 
+		<!-- Thumbnail Section -->
 		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 text-center">
+						<!-- icon -->
+						<span class="fa-stack fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
 
+						<!-- panel -->
+						<div class="panel panel-default">
+							<div class="panel-body">
+								<h3>Humblebrag</h3>
+								<p>Selvage typewriter forage, craft beer vape glossier gastropub 3 wolf moon intelligentsia.</p>
+							</div>
+						</div>
+					</div><!--/.col-md-3 -->
+
+					<div class="col-md-3 text-center">
+						<!-- icon -->
+						<span class="fa-stack fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
+
+						<!-- panel -->
+						<div class="panel panel-default">
+							<div class="panel-body">
+								<h3>Humblebrag</h3>
+								<p>Selvage typewriter forage, craft beer vape glossier gastropub 3 wolf moon intelligentsia.</p>
+							</div>
+						</div>
+					</div><!--/.col-md-3 -->
+
+					<div class="col-md-3 text-center">
+						<!-- icon -->
+						<span class="fa-stack fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
+
+						<!-- panel -->
+						<div class="panel panel-default">
+							<div class="panel-body">
+								<h3>Humblebrag</h3>
+								<p>Selvage typewriter forage, craft beer vape glossier gastropub 3 wolf moon intelligentsia.</p>
+							</div>
+						</div>
+					</div><!--/.col-md-3 -->
+
+					<div class="col-md-3 text-center">
+						<!-- icon -->
+						<span class="fa-stack fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
+
+						<!-- panel -->
+						<div class="panel panel-default">
+							<div class="panel-body">
+								<h3>Humblebrag</h3>
+								<p>Selvage typewriter forage, craft beer vape glossier gastropub 3 wolf moon intelligentsia.</p>
+							</div>
+						</div>
+					</div><!--/.col-md-3 -->
+				</div><!--/.row-->
+			</div><!--/.container-->
 		</section>
 
 		</div>
-		<footer>
-			this is the footer
+		<footer class="bg-info text-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-md-offset-4">
+						footer text
+					</div>
+				</div>
+			</div>
 		</footer>
 	</body>
 </html>
