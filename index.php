@@ -57,13 +57,24 @@
 				</div><!-- /.container-fluid -->
 			</nav>
 		</header>
-
+		<!-- Welcome Section-->
 		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="jumbotron text-center">
+							<h1>Welcome to the Bootstrap Challenge</h1>
+							<p>90's kombucha squid affogato yuccie before they sold out ramps, austin tattooed gluten-free.</p>
+						</div>
+					</div>
+				</div>
+			</div>
 
 		</section>
 
+		<!-- Photo and Text Section- -->
 		<section>
-
+			<div class="container"
 		</section>
 
 		<section>
